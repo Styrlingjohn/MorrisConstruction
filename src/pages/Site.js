@@ -100,6 +100,16 @@ function Homepage() {
                     Projects
                 </section>
             </div>
+            <div className="flexbox">
+                <section className='cont-box-1' style={Style.Container}>
+                    <section style={Style.Box} className="SHStyle">
+                        <a href='/sornsenhouse'> <div className="boxOverlay">
+                            Sornsen House
+                        </div></a>
+                    </section>
+                </section>
+            </div>
+
         </>
     );
 };

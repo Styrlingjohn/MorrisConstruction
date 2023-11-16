@@ -118,6 +118,11 @@ a {
     background-position: center;
     background-size: cover;
 }
+.SHStyle {
+    background-image: url(./images/Background\ images/1.jpg);
+    background-position: center;
+    background-size: cover;
+}
 
 
 .boxOverlay {

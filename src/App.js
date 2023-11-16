@@ -8,6 +8,7 @@ import Bathroom from "./pages/Bathroom";
 import Kitchen from "./pages/Kitchen";
 import Finishes from "./pages/Finishes";
 import Footer from "./components/Footer";
+import SornsenHouse from "./Projects/SHhouse";
 
 
 
@@ -27,6 +28,7 @@ function App() {
                         <Route path="bathroom" element={<Bathroom />} />
                         <Route path="kitchen" element={<Kitchen />} />
                         <Route path="finishes" element={<Finishes />} />
+                        <Route path="sornsenHouse" element={<SornsenHouse />} />
                     </Routes>
                 </BrowserRouter>
 
