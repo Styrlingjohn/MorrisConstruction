@@ -5,8 +5,7 @@ const Style = {
   Box: {
     'display': 'flex',
     'margin': 'auto',
-    'border': '1px solid',
-    'backgroundColor': 'grey',
+    'backgroundColor': 'white',
     'flexWrap': 'wrap',
     'width': '80%',
     'alignItems': 'center',
@@ -28,7 +27,7 @@ function Kitchen() {
 
   return (
     <>
-      <section className='flexbox'>
+      <section className='Gallery'>
           Kitchen's
       </section>
 

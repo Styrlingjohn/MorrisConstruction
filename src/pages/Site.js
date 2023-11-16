@@ -12,7 +12,7 @@ function Homepage() {
             height: '450px',
             margin: '10px',
             border: '1px solid',
-            backgroundColor: 'white',
+            backgroundColor: 'black',
             alignItems: 'center',
             justifyContent: 'center',
             color: 'white',
@@ -95,11 +95,18 @@ function Homepage() {
 
 
             </div>
+
+            <br />
+
             <div>
+
                 <section className="Gallery">
                     Projects
                 </section>
             </div>
+
+            <br />
+
             <div className="flexbox">
                 <section className='cont-box-1' style={Style.Container}>
                     <section style={Style.Box} className="SHStyle">

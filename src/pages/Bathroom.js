@@ -5,8 +5,7 @@ const Style = {
   Box: {
     'display': 'flex',
     'margin': 'auto',
-    'border': '1px solid',
-    'backgroundColor': 'grey',
+    'backgroundColor': 'white',
     'flexWrap': 'wrap',
     'width': '80%',
     'alignItems': 'center',
@@ -28,9 +27,11 @@ function Bathroom() {
 
   return (
     <div>
-      <section className='flexbox'>
+      <section className='Gallery'>
         Bathroom's
       </section>
+
+      <br/>
 
       <section style={Style.Box}>
      
