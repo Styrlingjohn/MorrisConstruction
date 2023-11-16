@@ -5,8 +5,7 @@ const Style = {
   Box: {
     'display': 'flex',
     'margin': 'auto',
-    'border': '1px solid',
-    'backgroundColor': 'grey',
+    'backgroundColor': 'white',
     'flexWrap': 'wrap',
     'width': '80%',
     'alignItems': 'center',
@@ -28,8 +27,8 @@ function SHHouse() {
 
   return (
     <>
-      <section className='flexbox'>
-          Kitchen's
+      <section className='Gallery'>
+          Sornsen House
       </section>
 
       <br/>
