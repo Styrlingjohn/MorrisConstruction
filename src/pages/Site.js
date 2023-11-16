@@ -115,6 +115,15 @@ function Homepage() {
                         </div></a>
                     </section>
                 </section>
+       
+                <section className='cont-box-1' style={Style.Container}>
+                    <section style={Style.Box} className="AFrame">
+                        <a href='/aframe'> <div className="boxOverlay">
+                            Aframe
+                        </div></a>
+                    </section>
+                </section>
+
             </div>
 
         </>

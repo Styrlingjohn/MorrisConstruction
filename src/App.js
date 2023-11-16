@@ -9,6 +9,7 @@ import Kitchen from "./pages/Kitchen";
 import Finishes from "./pages/Finishes";
 import Footer from "./components/Footer";
 import SornsenHouse from "./Projects/SHhouse";
+import AFrame from "./Projects/AFrame";
 
 
 
@@ -29,6 +30,7 @@ function App() {
                         <Route path="kitchen" element={<Kitchen />} />
                         <Route path="finishes" element={<Finishes />} />
                         <Route path="sornsenHouse" element={<SornsenHouse />} />
+                        <Route path="aframe" element={<AFrame />} />
                     </Routes>
                 </BrowserRouter>
 
