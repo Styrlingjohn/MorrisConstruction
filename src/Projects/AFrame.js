@@ -35,9 +35,9 @@ function AFrame() {
 
             <section style={Style.Box} className='imageBox'>
 
-                <img src='./images/AFrame/3.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/AFrame/1.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/AFrame/2.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Aframe/3.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Aframe/1.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Aframe/2.jpg' style={Style.Images} className='images'></img>
 
             </section>
 
