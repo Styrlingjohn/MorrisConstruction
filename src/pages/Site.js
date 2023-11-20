@@ -111,7 +111,7 @@ function Homepage() {
                 <section className='cont-box-1' style={Style.Container}>
                     <section style={Style.Box} className="SHStyle">
                         <a href='/sornsenhouse'> <div className="boxOverlay">
-                            Sornsen House
+                            Sorensen House
                         </div></a>
                     </section>
                 </section>
@@ -120,6 +120,14 @@ function Homepage() {
                     <section style={Style.Box} className="AFrame">
                         <a href='/aframe'> <div className="boxOverlay">
                             Aframe
+                        </div></a>
+                    </section>
+                </section>
+       
+                <section className='cont-box-1' style={Style.Container}>
+                    <section style={Style.Box} className="DeweyLn">
+                        <a href='/deweyLn'> <div className="boxOverlay">
+                            Dewey Lane
                         </div></a>
                     </section>
                 </section>

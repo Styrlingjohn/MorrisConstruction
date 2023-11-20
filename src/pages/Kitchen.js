@@ -35,7 +35,7 @@ function Kitchen() {
 
       <section style={Style.Box} className='imageBox'>
 
-          <img src='./images/Kitchen.jpg' style={Style.Images} className='images'></img>
+          <img src='./images/DeweyLn/4.jpg' style={Style.Images} className='images'></img>
           <img src='./images/Kitchen.jpg' style={Style.Images} className='images'></img>
           <img src='./images/Kitchen.jpg' style={Style.Images} className='images'></img>
           <img src='./images/Kitchen.jpg' style={Style.Images} className='images'></img>

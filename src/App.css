@@ -25,7 +25,6 @@ body {
 
 .Title {
     display: block;
-    width: 25%;
     text-align: left;
     padding-left: 16px;
     justify-content: center;
@@ -125,6 +124,11 @@ a {
 }
 .AFrame {
     background-image: url(./images/AFrame/AFrame.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.DeweyLn {
+    background-image: url(./images/DeweyLn/1.jpg);
     background-position: center;
     background-size: cover;
 }

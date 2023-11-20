@@ -10,6 +10,7 @@ import Finishes from "./pages/Finishes";
 import Footer from "./components/Footer";
 import SornsenHouse from "./Projects/SHhouse";
 import AFrame from "./Projects/AFrame";
+import DeweyLn from "./Projects/DeweyLn";
 
 
 
@@ -31,6 +32,7 @@ function App() {
                         <Route path="finishes" element={<Finishes />} />
                         <Route path="sornsenHouse" element={<SornsenHouse />} />
                         <Route path="aframe" element={<AFrame />} />
+                        <Route path="deweyLn" element={<DeweyLn />} />
                     </Routes>
                 </BrowserRouter>
 
