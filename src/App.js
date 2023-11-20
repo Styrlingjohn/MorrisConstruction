@@ -11,6 +11,7 @@ import Footer from "./components/Footer";
 import SornsenHouse from "./Projects/SHhouse";
 import AFrame from "./Projects/AFrame";
 import DeweyLn from "./Projects/DeweyLn";
+import Portneuf from "./Projects/Portnuef";
 
 
 
@@ -33,6 +34,7 @@ function App() {
                         <Route path="sornsenHouse" element={<SornsenHouse />} />
                         <Route path="aframe" element={<AFrame />} />
                         <Route path="deweyLn" element={<DeweyLn />} />
+                        <Route path="portneuf" element={<Portneuf />} />
                     </Routes>
                 </BrowserRouter>
 

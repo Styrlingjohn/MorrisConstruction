@@ -132,6 +132,11 @@ a {
     background-position: center;
     background-size: cover;
 }
+.portneuf {
+    background-image: url(./images/Portneuf/6.JPG);
+    background-position: center;
+    background-size: cover;
+}
 
 
 .boxOverlay {

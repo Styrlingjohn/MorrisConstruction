@@ -35,15 +35,15 @@ function DeweyLn() {
 
             <section style={Style.Box} className='imageBox'>
 
-                <img src='./images/DeweyLn/1.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/DeweyLn/8.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/DeweyLn/2.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/DeweyLn/5.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/DeweyLn/6.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/DeweyLn/7.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/DeweyLn/3.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/DeweyLn/9.jpg' style={Style.Images} className='images'></img>
-                <img src='./images/DeweyLn/4.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/DeweyLn/1.JPG' style={Style.Images} className='images'></img>
+                <img src='./images/DeweyLn/8.JPG' style={Style.Images} className='images'></img>
+                <img src='./images/DeweyLn/2.JPG' style={Style.Images} className='images'></img>
+                <img src='./images/DeweyLn/5.JPG' style={Style.Images} className='images'></img>
+                <img src='./images/DeweyLn/6.JPG' style={Style.Images} className='images'></img>
+                <img src='./images/DeweyLn/7.JPG' style={Style.Images} className='images'></img>
+                <img src='./images/DeweyLn/3.JPG' style={Style.Images} className='images'></img>
+                <img src='./images/DeweyLn/9.JPG' style={Style.Images} className='images'></img>
+                <img src='./images/DeweyLn/4.JPG' style={Style.Images} className='images'></img>
                 
             </section>
 

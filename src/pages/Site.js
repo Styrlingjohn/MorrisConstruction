@@ -132,6 +132,14 @@ function Homepage() {
                     </section>
                 </section>
 
+                <section className='cont-box-1' style={Style.Container}>
+                    <section style={Style.Box} className="portneuf">
+                        <a href='/portneuf'> <div className="boxOverlay">
+                            Portneuf House
+                        </div></a>
+                    </section>
+                </section>
+
             </div>
 
         </>
