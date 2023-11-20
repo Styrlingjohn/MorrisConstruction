@@ -35,18 +35,18 @@ function Portneuf() {
 
             <section style={Style.Box} className='imageBox'>
 
-                <img src='./images/Portneuf/1.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/8.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/3.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/5.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/6.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/7.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/2.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/9.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/10.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/11.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/12.JPG' style={Style.Images} className='images'></img>
-                <img src='./images/Portneuf/13.JPG' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/1.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/8.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/3.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/5.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/6.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/7.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/2.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/9.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/10.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/11.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/12.jpg' style={Style.Images} className='images'></img>
+                <img src='./images/Portneuf/13.jpg' style={Style.Images} className='images'></img>
 
             </section>
 

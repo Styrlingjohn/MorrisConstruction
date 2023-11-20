@@ -35,8 +35,8 @@ function Bathroom() {
 
       <section style={Style.Box}>
      
-          <img src='./images/bathroom.jpg' style={Style.Images} className='images'></img>
-          <img src='./images/bathroom.jpg' style={Style.Images} className='images'></img>
+          <img src='./images/Portneuf/4.jpg' style={Style.Images} className='images'></img>
+          <img src='./images/Portneuf/7.jpg' style={Style.Images} className='images'></img>
           <img src='./images/bathroom.jpg' style={Style.Images} className='images'></img>
           <img src='./images/bathroom.jpg' style={Style.Images} className='images'></img>
     
